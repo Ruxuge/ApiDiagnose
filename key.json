@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telemed-300210",
+  "private_key_id": "2308f02f0f9e87c126193fce252f20129dacd9a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCly2sLhTMoDXR/\nmyZZWc60akizA5If4y/+zUAbugAm1ASvFlxloKXmYh3p2dWkbJM/WJnEG1KkfbY0\n3QXXzkaq4TFSkjBtXioVZ2xOuKwr+oEqcuVfd/OqIiytqdQOtLAm5W57AKyQW6jv\nRY23k5a6XfdeIkrYs1pbTl9XO87QaRMzgPDHqsvKTdeP2MAuaueD6ZU7Cmbvt2IL\nuK34P2Tj3j8hqPPr1dlRewlLN4QbTQETtM0aURR2R2FjYHyEmcaB/6PVOJGH6Qb2\nojNhMIWUM9ob8p8AD8G7W+lU2Uf7Ot4zvQ87Z15K1gk+ueZ7vWXxrFj1Uoi/mCbF\nv+rrMg7XAgMBAAECggEAAe7JJK08126wuPwaClidrETA7DVScsS3PoUuBiS487rt\nAw2DrjudM35ZUuyTLQOHA+oIgNzAreI5SYx6EPX6pOtTI99IaT37x5wZCyHj/+8/\nqjsEqYRAdu9HDg84xaMdmpZ6Hzz2xggLhB6PdGBoFWwbAiHsNXKBzyauvdmYo51R\nKkY9LOSaRFQJOfbW6bqkE8iwcP5uWDoJQ0m4C4bfAg7Z27UVp/rX55prlL6EP1ao\nvx4A1ZtyCUdWZnP1KOsHkef86MX2gbqWPGwR+xLdBHdKGCaO9bPOCgZo6TOVuNjK\ntLEIlRLMlRUKDbhe8my2TWW+0FEGkj1QLleQQRflYQKBgQDPux96Qv/wcfTmEZqV\ntJOE0ZGalkAhWNc6juzCfmfMY83394wuj+3i4zHIDAoW27OYwFFO3UzigsebAJS2\nY1+QBqdM4RN3yjcNd5Bw1y5Ytk6ua2EFLlCW693TeDxI5dK4IcGfcPAyLGVxXWRq\nIJa+NR/lY9pbjuvgTJvn90h6BQKBgQDMUbYWTnWGl+ktIxRSfq6SIqxX5tfliVhI\njTi1cinYhiRpJ8k27dU8pczhBi5vTrWGjsgIa9VnUjN8EZZKhwceCugmcoMp7ZR/\n3B5bnyuxyFjritI76PIvjwHK7zYnJf0Szw3GNI6+QL6e/1lIfMXotH2jIO/WUOET\nqCMkPZRQKwKBgD1wE4w+eqHroknVVQoH4UV8EftNiuQR+X4JPX78kciCkC1RmrU+\nvlXHajbHUMiX7BM2dhXEH/QyR8TRNCqJU38uaJa1TuOz+/pQrXiiO8PjD3xIp+Y3\nX4BzfCUKP5Iz3tG0siZs6a19MfeIbqVwxAS3g5p9oNxJdfvdzJKbsWTdAoGAKO5h\npPxYzPrXyqQRaSlZvYrWrdFgBOrL1dT8vFS/j1HoL2y6AZgJtNmePqInYUMKWId4\nCT/ZA5bTG5LGYe3E/j6/HRyprBedPTQSnNY5QadaMO2hikDza5WhjU74sUUJ+t+h\n6cgTpIeB6IZNE5lzaFfoJ2rswSl4vaBcUeFIOfsCgYEAsO8x6js23Wj3KfaxkndY\n/Fu/JLr1xYFZvrRath2M6omOwiqwZf84nx9MkFtF1mce3qcL0Kpfk8vSI84xi+jx\nbj/dr2D7Wbeha146sCnV5UDJ5ica4KsrSwg3RTeYg7qM4PT0+K2hlgOElP18G7pB\nB1OuiaELoRNhYrytcICbbFc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "telemedadmin@telemed-300210.iam.gserviceaccount.com",
+  "client_id": "115680831151429143775",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telemedadmin%40telemed-300210.iam.gserviceaccount.com"
+}
