@@ -15,8 +15,13 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 api = Api(app)
 
+@app.route('/')
+def home():
+    return 'Hello World'
 
-@app.route('/', methods=['GET', 'POST'])
+
+
+@app.route('/api', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
         if request.files:
@@ -49,6 +54,7 @@ with app.test_request_context():
     print(url_for('goodResponse'))
     print(url_for('noValue'))
     print(url_for('badRequest'))
+    print(url_for('home'))
 
 
 def diagnose(path):
